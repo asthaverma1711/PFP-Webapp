@@ -1,0 +1,6 @@
+flask
+pillow
+tensorflow
+firebase_admin
+h5py
+flask_cors

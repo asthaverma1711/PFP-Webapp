@@ -1,0 +1,63 @@
+body{
+    background-color: #FAD6A5;
+    text-align: center;
+}
+/* section-nav */
+#title{
+    background-color: #567189;
+    padding:3% 7%;
+}
+.brand{
+    font-size: 2rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+.heading{
+    padding:5% 0;
+}
+h1{
+    color:#ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size:3rem;
+    text-align: left;
+}
+h5,h3 ,h6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color:rgba(73, 71, 71, 0.89);
+}
+
+#navbar{
+    padding: 3% 5%;
+}
+.card{
+    width:fit-content;
+}
+.image-wrapper{
+    width: 200px;
+    height: 300px;
+}
+.face-img{
+    width:40%;
+    border-radius: 5%;
+    margin-left: 10%;
+}
+#detection{
+    text-align: center;
+}
+.detection{
+    padding: 7% 5% 0;
+}
+   
+.img-sub-btn:hover{
+    background-color: #567189;
+    color:white;
+    border: none;
+}
+.scan-face-img{
+    width:33%;
+}
+.env{
+    color:#567189;
+}
+
